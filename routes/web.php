@@ -107,7 +107,7 @@ Route::controller(PaymentController::class)
     })->middleware('auth');
 
 
-    Route::name('stripe.')
+ /*   Route::name('stripe.')
     ->controller(LaraveliaController::class)
     ->prefix('stripe')
     ->group(function () {

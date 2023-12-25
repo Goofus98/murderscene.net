@@ -144,7 +144,7 @@ export default class IndexClass extends Vue {
     position: relative;
     height: 95px;
     min-width: 320px;
-    maX-width: 320px;
+    max-width: 320px;
 
     margin-bottom: 25px;
     
@@ -175,7 +175,7 @@ export default class IndexClass extends Vue {
 
     background-image: linear-gradient(to left,  rgb(56,102,255) , rgb(30,50,120));
     min-width: 250px;
-    maX-width: 320px;
+    max-width: 320px;
     
     
     height: 95px;

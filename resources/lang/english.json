@@ -1,0 +1,32 @@
+{
+    "navbar": [
+        {
+            "name": "Random",
+            "route": "/random"
+        },
+        {
+            "name": "Tags",
+            "route": "/tags"
+        },
+        {
+            "name": "Artists",
+            "route": "/artists"
+        },
+        {
+            "name": "Characters",
+            "route": "/characters"
+        },
+        {
+            "name": "Parodies",
+            "route": "/parodies"
+        },
+        {
+            "name": "Groups",
+            "route": "/groups"
+        },
+        {
+            "name": "About",
+            "route": "/about"
+        }
+    ]
+}

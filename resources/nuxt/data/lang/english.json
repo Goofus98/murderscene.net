@@ -1,0 +1,31 @@
+{
+    "navbar": [
+        {
+            "name": "About",
+            "route": "/"
+        },
+        {
+            "name": "News",
+            "isExternal": true,
+            "route": "https://steamcommunity.com/groups/TheMurderScene/announcements"
+        },
+        {
+            "name": "Rules",
+            "route": "/rules"
+        },
+        {
+            "name": "Staff",
+            "route": "/staff"
+        },
+        {
+            "name": "Discord",
+            "isExternal": true,
+            "route": "https://discord.gg/KxQ3KDb6K2"
+        },
+        {
+            "name": "Donate",
+            "route": "/donate"
+        }
+    ]
+}
+
